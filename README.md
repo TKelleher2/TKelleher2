@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @TKelleher2
-- 👀 I’m interested in ...
-- Automating repeative tasks
-- 🌱 I’m currently learning ...
-- Scripting; VBA, Javascript for software I use daily 
-- 💞️ I’m looking to collaborate on ...
-- Manufacturing problems...and their solutions
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- he/him
+- 👋 Hi, I’m Thomas
+- 👀 I’m interested in Automating repeative tasks
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Manufacturing problems...and their solutions
+- 📫 Let's connect on LinkedIn
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 - 
 <!---
